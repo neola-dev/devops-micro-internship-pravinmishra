@@ -27,14 +27,13 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
-
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other. For example, just like people follow rules while having a conversation, computers use protocols such as HTTP and TCP to exchange information correctly.
 
 ---
 
@@ -59,7 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user opens the EpicReads website, the request is sent across the Internet using **packet switching**, where the data is divided into smaller packets and sent through different network paths. The server hosting EpicReads in Finland has a unique **IP address**, which helps identify and locate the server on the Internet. **TCP/IP** provides the basic communication rules that allow the user's device and the server to exchange data reliably. TCP ensures that packets are delivered correctly and in the proper order, while IP handles addressing and routing. Once the request reaches the server, **HTTP or HTTPS** is used to transfer web pages and other resources between the browser and server. HTTPS is preferred because it encrypts the communication and protects user information.
 
 ---
 
@@ -93,7 +92,6 @@ Save your diagram image in the `screenshots` folder and update the file name bel
 
 ![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
-
 Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
@@ -102,18 +100,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* HTML/CSS/JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +140,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names such as `epicreads.com` into IP addresses that computers can use to locate servers. To connect `epicreads.com` to `52.172.142.222`, an **A record** should be created because an A record maps a domain name to an IPv4 address. The port `3000` is not included in the DNS A record; DNS only maps the domain to the server's IP address. The application can then be accessed using the appropriate port.
 
 ---
 
@@ -180,7 +178,6 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
 
-
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
@@ -213,7 +210,6 @@ Add the following credit note at the end of your post **(If you are DMI Cohort 3
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
-
 Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
@@ -222,8 +218,7 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
 
-Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
----
+## Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 
 ## LinkedIn Post URL
 
@@ -237,9 +232,7 @@ Add your URL here...
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
-
-Add your post content here...
+Paste the full text of your LinkedIn post here...
 
 ---
 
@@ -247,19 +240,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Understanding basic networking concepts such as IP addresses, DNS, HTTP/HTTPS, and application architecture was relatively easy because I could relate them to real-world examples.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how different networking concepts work together, especially packet switching, TCP/IP, and DNS, was initially challenging. Creating the application architecture diagram also required understanding the responsibilities of each layer.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my understanding of DevOps fundamentals by getting more hands-on with Linux commands, networking, Git, and other tools used in real-world DevOps workflows.
 
 ---
 
@@ -269,16 +262,15 @@ DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mi
 
 It helps learners build strong DevOps foundations with hands-on experience.
 
-
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
-- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
-- 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
+* 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
+* 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme
+* 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
+* 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme
+* ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+* 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/
+* 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
