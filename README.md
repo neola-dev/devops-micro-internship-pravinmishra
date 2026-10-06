@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Neola Kellsie P |
-| **LinkedIn** |  [neola kellsie p] https://www.linkedin.com/in/neola-kellsie-p-655258291/|
+| **LinkedIn** |  [neola kellsie p] www.linkedin.com/in/neola-kellsie-p-b04755441|
 | **Location** |    Coimbatore,Tamil Nadu |
 | **Background** | Software Engineer |
 
@@ -129,7 +129,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | Completed | Completed | — | — |
+| 00 | Internet & Networking Basics | ✅Completed | Completed | — | — |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
@@ -162,6 +162,6 @@ This is not a course. It is an internship-style program — real deployments, re
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [LinkedIn] www.linkedin.com/in/neola-kellsie-p-b04755441
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
