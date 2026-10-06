@@ -225,6 +225,8 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 Paste your LinkedIn post URL here:
 https://lnkd.in/p/gGwKwkxn
 
+---
+
 ## LinkedIn Post Backup Copy
 🚀 Week 0 | DevOps Micro Internship (DMI) – Cohort 3
 I’m excited to begin my DevOps learning journey through the DevOps Micro Internship (DMI) – Cohort 3 with Agentic AI by Pravin Mishra.
