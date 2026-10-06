@@ -8,6 +8,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 I believe that **being consistently good at learning and executing is more valuable than being naturally talented**. Many people around me believe that getting a good job mainly depends on intelligence, college reputation, or knowing the right technology. I have found that consistency matters more in the long run. A person who keeps learning, solving problems, building projects, and improving after failures can eventually outperform someone who is naturally talented but inconsistent. I also believe that career growth is not a one-time achievement; it requires continuous learning and adapting to new technologies.
 
+
 ---
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
